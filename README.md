@@ -1,2 +1,2 @@
-# Cousera_ML
+# Cousera
 Solution of homework
